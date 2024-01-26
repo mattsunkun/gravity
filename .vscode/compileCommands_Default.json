@@ -1,0 +1,26 @@
+[
+	{
+		"file": "/Users/mattsunkun/experiment/ue/Gravity/Source/Gravity/Gravity.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mattsunkun/experiment/ue/Gravity/.vscode/compileCommands_Default/Gravity.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/mattsunkun/experiment/ue/Gravity/Source/Gravity/Gravity.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mattsunkun/experiment/ue/Gravity/.vscode/compileCommands_Default/Gravity.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/mattsunkun/experiment/ue/Gravity/Source/Gravity/Gravity.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/mattsunkun/experiment/ue/Gravity/.vscode/compileCommands_Default/Gravity.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	}
+]
